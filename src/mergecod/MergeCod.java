@@ -32,6 +32,8 @@ public class MergeCod {
             System.out.println(numeros[i]);
         }
         
+        System.out.println("Commit 2");
+        
     }
     
 }
