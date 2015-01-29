@@ -34,10 +34,9 @@ public class MergeCod {
         
         System.out.println("Commit 2");
         
+        System.out.println("Commit 3 Rama2");
         System.out.println("Commit 3 Master");
         
     }
-    
-}
     
 }
