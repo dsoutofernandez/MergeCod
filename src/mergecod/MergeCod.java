@@ -33,11 +33,11 @@ public class MergeCod {
         }
         
         System.out.println("Commit 2");
-        
+        //Creo que esto lo deberías hacer con un Joshompein!!!
         System.out.println("Commit 3 Master");
+        
         
     }
     
 }
-    
-}
+   
